@@ -1,0 +1,71 @@
+{
+  "q_rad": [
+    -0.6300000000000003,
+    -1.0199999999999998,
+    0.42000000000000015,
+    -2.1599999999999997,
+    -2.7755575615628914e-17,
+    1.5299999999999998,
+    0.81
+  ],
+  "q_deg": [
+    -36.09634109324188,
+    -58.44169510334396,
+    24.064227395494584,
+    -123.7588837482578,
+    -1.5902773407317584e-15,
+    87.66254265501594,
+    46.40958140559668
+  ],
+  "cup_position": [
+    0.32,
+    0.0,
+    0.5
+  ],
+  "palm_position_B_proximal_avg": [
+    0.2966049388051033,
+    -0.07588553614914417,
+    0.4977893978357315
+  ],
+  "back_position_avg_panda_hand_l20_base": [
+    0.270320788025856,
+    0.020995520055294037,
+    0.6693858504295349
+  ],
+  "palm_to_cup_vector_raw": [
+    0.023395061194896705,
+    0.07588553614914417,
+    0.0022106021642684937
+  ],
+  "palm_to_cup_vector_unit": [
+    0.2944970415581431,
+    0.9552471654936893,
+    0.02782706110557682
+  ],
+  "palm_normal_raw_back_to_palm": [
+    0.026284150779247284,
+    -0.09688105620443821,
+    -0.1715964525938034
+  ],
+  "palm_normal_unit_back_to_palm": [
+    0.13221287030976406,
+    -0.4873249520978881,
+    -0.8631536062528179
+  ],
+  "palm_dist": 0.07944073417891288,
+  "back_dist": 0.17776501987314872,
+  "margin_back_minus_palm": 0.09832428569423583,
+  "angle_deg_between_palm_normal_and_cup_dir": 116.78209009735453,
+  "joint_deviation_from_home": 0.8554530963179691,
+  "success_like": false,
+  "palm_paths": [
+    "/World/Robot/L20/linkerhand_l20_right/index_proximal",
+    "/World/Robot/L20/linkerhand_l20_right/middle_proximal",
+    "/World/Robot/L20/linkerhand_l20_right/ring_proximal",
+    "/World/Robot/L20/linkerhand_l20_right/pinky_proximal"
+  ],
+  "back_paths": [
+    "/World/Robot/Franka/panda_hand",
+    "/World/Robot/L20/linkerhand_l20_right/base_link"
+  ]
+}
